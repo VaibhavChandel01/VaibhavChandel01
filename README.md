@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VaibhavChandel01
 - 👀 I’m interested in learning to code in different computer languages, and becoming a fullstack developer
-- 🌱 I’m currently learning html and css
+- 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on website development
 - 📫 my email vaibhavchandel386@gmail.com
 - 
